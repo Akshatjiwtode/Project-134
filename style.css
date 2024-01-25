@@ -1,0 +1,21 @@
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas{
+    box-shadow:  10px 10px 10px grey;
+    border-radius: 10px;
+}
+
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0;
+    background-color: #FFA500;
+}
